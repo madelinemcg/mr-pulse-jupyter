@@ -1,6 +1,6 @@
 # rf-exciation-juptyer
 
-# Use:
+## Use:
 
 The Jupyter notbook is set up as one block to run the interface with sections labeled for 
 easy editing or adaptation. Currently Gaussian, HSn, Windowed Sinc, and Square pulses are supported.
@@ -8,7 +8,7 @@ This project was created to begin the user interface for an educational tool and
 as a web app.
 
 
-# Background:
+## Background:
 
 Shaped radiofrequency (RF) pulses are widely used in nuclear magnetic resonance (NMR),
 magnetic resonance imaging (MRI), and magnetic resonance spectroscopy (MRS). Design and
