@@ -1,4 +1,4 @@
-# rf-exciation-juptyer
+# mr-pulse-juptyer
 
 ## Use:
 
